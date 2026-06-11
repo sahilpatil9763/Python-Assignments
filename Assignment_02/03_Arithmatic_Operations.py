@@ -20,11 +20,8 @@ Multiplication = x * y
 print(f"Multiplication is: {x} * {y} = {Multiplication}")       # Multiplication is: 5 * 2 = 10
 
 # Division
-#if y != 0:
- #   Division = x / y
-  #  print(f"Division is: {x} / {y} = {Division}")                   # Division is: 5 / 2 = 2.5
-#else:
- #   print("Error: Division by zero is not allowed.")
- 
-division = x / y
-print(f"Division is: {x} / {y} = {division}")                   # Division is: 5 / 2 = 2.5
+if y != 0:
+    Division = x / y
+    print(f"Division is: {x} / {y} = {Division}")                   # Division is: 5 / 2 = 2.5
+else:
+    print("Error: Division by zero is not allowed.")
