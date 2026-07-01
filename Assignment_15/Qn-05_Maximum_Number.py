@@ -1,4 +1,6 @@
-# Write a lambda function using reduce() which accepts a list of numbers and returns Maximum elements.
+"""
+Write a lambda function using reduce() which accepts a list of numbers and returns Maximum elements.
+"""
 
 from functools import reduce
 
