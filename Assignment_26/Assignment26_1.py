@@ -9,7 +9,7 @@ Write a Python program to implement a class named Demo with the following specif
 
 Create two objects of the Demo class as follows:
 
-Objl = Demo (11, 21)
+Obj1 = Demo (11, 21)
 Obj2 = Demo (51, 101)
 
 Call the instance methods in the given sequence:
