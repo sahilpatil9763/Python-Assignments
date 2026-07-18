@@ -5,6 +5,7 @@ Problem Statement: Write a program which accepts two file names from the us
     • Second file is a new file
 Copy all contents from the first file into the second file.
 Input : ABC. txt Demo.txt
+Expected Output : Contents of ABC.txt copied into Demo.txt
 """
 
 def CopyFile(SourceFile, DestinatinoFile):
@@ -18,7 +19,7 @@ def CopyFile(SourceFile, DestinatinoFile):
         sObj.close()
         dObj.close()
 
-        print("Content copied successfully")
+        print(f"Contents of {SourceFile} copied into {DestinatinoFile}")
                     
     except FileNotFoundError:
         print("File is not present in current directory")
