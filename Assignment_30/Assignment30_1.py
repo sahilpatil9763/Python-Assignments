@@ -15,10 +15,16 @@ Jay Ganesh.…
 import schedule
 import time
 
+Border = "-"*40
+
 def Display():
     print("Jay Ganesh...")
 
 def main():
+    print(Border)
+    print("Automation Script Started")
+    print(Border)
+
     schedule.every(2).seconds.do(Display)
 
     # Record the starting time
@@ -30,8 +36,11 @@ def main():
 
         # Stop after 20 seconds
         if time.time() - start >= 20:
-            print("\nProgram Stopped\n")
             break
+
+    print(Border)
+    print("End of Automation Script")
+    print(Border)
 
 if __name__ == "__main__":
     main()
