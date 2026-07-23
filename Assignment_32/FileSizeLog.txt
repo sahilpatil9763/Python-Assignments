@@ -1,0 +1,28 @@
+--------------------------------------------------
+File Path : Assignment_31
+Status : File does not exist
+Date and Time : 23-07-2026 07:29:52 PM
+--------------------------------------------------
+
+--------------------------------------------------
+File Path : Assignment_3
+Status : File does not exist
+Date and Time : 23-07-2026 07:31:48 PM
+--------------------------------------------------
+File Path : Assignment_32
+Status : File does not exist
+Date and Time : 23-07-2026 07:32:03 PM
+--------------------------------------------------
+File Path : /Users/sahilpatil/Demo
+File Size : 96 Bytes
+Date and Time : 23-07-2026 07:37:31 PM
+--------------------------------------------------
+
+
+
+--------------------------------------------------
+File Path : /Users/sahilpatil/Demo
+File Size : 96 Bytes
+Date and Time : 23-07-2026 07:45:56 PM
+--------------------------------------------------
+
