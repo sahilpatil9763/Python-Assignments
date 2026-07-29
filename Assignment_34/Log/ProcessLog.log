@@ -1,0 +1,33 @@
+2026-07-29 22:24:36,662 : INFO : ------------------------------------------------------------
+2026-07-29 22:24:36,662 : INFO : Process Found
+2026-07-29 22:24:36,662 : INFO : Process Name : Finder
+2026-07-29 22:24:36,662 : INFO : PID          : 840
+2026-07-29 22:24:36,662 : INFO : User         : sahilpatil
+2026-07-29 22:24:36,662 : INFO : ------------------------------------------------------------
+2026-07-29 22:24:53,439 : INFO : ------------------------------------------------------------
+2026-07-29 22:24:53,439 : INFO : Process Found
+2026-07-29 22:24:53,439 : INFO : Process Name : Finder
+2026-07-29 22:24:53,439 : INFO : PID          : 840
+2026-07-29 22:24:53,439 : INFO : User         : sahilpatil
+2026-07-29 22:24:53,439 : INFO : ------------------------------------------------------------
+2026-07-29 22:25:06,689 : INFO : Process 'chrome.exe' is not running.
+2026-07-29 22:25:14,218 : INFO : Process 'chrome' is not running.
+2026-07-29 22:25:33,390 : ERROR : cannot access local variable 'ProcessName' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/sahilpatil/Python-Assignments/Assignment_34/Assignment34_2.py", line 79, in main
+    logging.info(f"Usage : ProcInfo.py {ProcessName}")
+                                        ^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'ProcessName' where it is not associated with a value
+2026-07-29 22:25:57,874 : INFO : Process 'Google' is not running.
+2026-07-29 22:26:13,131 : INFO : ------------------------------------------------------------
+2026-07-29 22:26:13,131 : INFO : Process Found
+2026-07-29 22:26:13,131 : INFO : Process Name : Terminal
+2026-07-29 22:26:13,131 : INFO : PID          : 833
+2026-07-29 22:26:13,131 : INFO : User         : sahilpatil
+2026-07-29 22:26:13,131 : INFO : ------------------------------------------------------------
+2026-07-29 22:26:31,506 : INFO : ------------------------------------------------------------
+2026-07-29 22:26:31,506 : INFO : Process Found
+2026-07-29 22:26:31,506 : INFO : Process Name : Preview
+2026-07-29 22:26:31,506 : INFO : PID          : 837
+2026-07-29 22:26:31,506 : INFO : User         : sahilpatil
+2026-07-29 22:26:31,506 : INFO : ------------------------------------------------------------
