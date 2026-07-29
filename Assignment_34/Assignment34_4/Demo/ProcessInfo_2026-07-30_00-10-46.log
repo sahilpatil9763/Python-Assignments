@@ -1,0 +1,3213 @@
+--------------------------------------------------
+---- Marvellous Process Information System ----
+Log file gets created at : 2026-07-30_00-10-46
+--------------------------------------------------
+
+---------------- System Report ----------------
+Name : kernel_task
+PID : 0
+User Name : root
+--------------------------------------------------
+Name : launchd
+PID : 1
+User Name : root
+--------------------------------------------------
+Name : logd
+PID : 98
+User Name : root
+--------------------------------------------------
+Name : smd
+PID : 99
+User Name : root
+--------------------------------------------------
+Name : UserEventAgent
+PID : 100
+User Name : root
+--------------------------------------------------
+Name : fseventsd
+PID : 102
+User Name : root
+--------------------------------------------------
+Name : mediaremoted
+PID : 103
+User Name : root
+--------------------------------------------------
+Name : systemstats
+PID : 105
+User Name : root
+--------------------------------------------------
+Name : accessoryupdater
+PID : 107
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : uarpassetmanager
+PID : 108
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : configd
+PID : 109
+User Name : root
+--------------------------------------------------
+Name : endpointsecurity
+PID : 110
+User Name : root
+--------------------------------------------------
+Name : powerd
+PID : 111
+User Name : root
+--------------------------------------------------
+Name : IOMFB_bics_daemo
+PID : 112
+User Name : root
+--------------------------------------------------
+Name : amfid
+PID : 114
+User Name : root
+--------------------------------------------------
+Name : remoted
+PID : 116
+User Name : root
+--------------------------------------------------
+Name : keybagd
+PID : 118
+User Name : root
+--------------------------------------------------
+Name : softwareupdated
+PID : 119
+User Name : _softwareupdate
+--------------------------------------------------
+Name : corespeechd_syst
+PID : 120
+User Name : _corespeechd
+--------------------------------------------------
+Name : watchdogd
+PID : 122
+User Name : root
+--------------------------------------------------
+Name : mds
+PID : 126
+User Name : root
+--------------------------------------------------
+Name : iconservicesd
+PID : 127
+User Name : _iconservices
+--------------------------------------------------
+Name : kernelmanagerd
+PID : 128
+User Name : root
+--------------------------------------------------
+Name : diskarbitrationd
+PID : 129
+User Name : root
+--------------------------------------------------
+Name : coreduetd
+PID : 132
+User Name : root
+--------------------------------------------------
+Name : syslogd
+PID : 133
+User Name : root
+--------------------------------------------------
+Name : thermalmonitord
+PID : 135
+User Name : root
+--------------------------------------------------
+Name : contextstored
+PID : 136
+User Name : root
+--------------------------------------------------
+Name : xprotectd
+PID : 137
+User Name : root
+--------------------------------------------------
+Name : opendirectoryd
+PID : 138
+User Name : root
+--------------------------------------------------
+Name : apsd
+PID : 139
+User Name : root
+--------------------------------------------------
+Name : launchservicesd
+PID : 140
+User Name : root
+--------------------------------------------------
+Name : timed
+PID : 141
+User Name : _timed
+--------------------------------------------------
+Name : usbmuxd
+PID : 142
+User Name : _usbmuxd
+--------------------------------------------------
+Name : securityd
+PID : 143
+User Name : root
+--------------------------------------------------
+Name : locationd
+PID : 145
+User Name : _locationd
+--------------------------------------------------
+Name : nesessionmanager
+PID : 146
+User Name : root
+--------------------------------------------------
+Name : autofsd
+PID : 148
+User Name : root
+--------------------------------------------------
+Name : dasd
+PID : 149
+User Name : root
+--------------------------------------------------
+Name : corerepaird
+PID : 151
+User Name : root
+--------------------------------------------------
+Name : distnoted
+PID : 153
+User Name : _distnote
+--------------------------------------------------
+Name : AppleCredentialM
+PID : 154
+User Name : root
+--------------------------------------------------
+Name : PerfPowerService
+PID : 155
+User Name : root
+--------------------------------------------------
+Name : dirhelper
+PID : 156
+User Name : root
+--------------------------------------------------
+Name : logind
+PID : 157
+User Name : root
+--------------------------------------------------
+Name : revisiond
+PID : 158
+User Name : root
+--------------------------------------------------
+Name : KernelEventAgent
+PID : 159
+User Name : root
+--------------------------------------------------
+Name : peakpowermanager
+PID : 160
+User Name : root
+--------------------------------------------------
+Name : usermanagerd
+PID : 161
+User Name : root
+--------------------------------------------------
+Name : bluetoothd
+PID : 163
+User Name : root
+--------------------------------------------------
+Name : notifyd
+PID : 164
+User Name : root
+--------------------------------------------------
+Name : sandboxd
+PID : 165
+User Name : root
+--------------------------------------------------
+Name : corebrightnessd
+PID : 166
+User Name : root
+--------------------------------------------------
+Name : AirPlayXPCHelper
+PID : 167
+User Name : root
+--------------------------------------------------
+Name : com.apple.cmio.r
+PID : 168
+User Name : root
+--------------------------------------------------
+Name : aslmanager
+PID : 169
+User Name : root
+--------------------------------------------------
+Name : logd_helper
+PID : 170
+User Name : root
+--------------------------------------------------
+Name : WindowServer
+PID : 171
+User Name : root
+--------------------------------------------------
+Name : tccd
+PID : 172
+User Name : root
+--------------------------------------------------
+Name : cfprefsd
+PID : 173
+User Name : root
+--------------------------------------------------
+Name : loginwindow
+PID : 174
+User Name : root
+--------------------------------------------------
+Name : powerexperienced
+PID : 175
+User Name : root
+--------------------------------------------------
+Name : fskitd
+PID : 176
+User Name : root
+--------------------------------------------------
+Name : securityd_system
+PID : 177
+User Name : root
+--------------------------------------------------
+Name : coreservicesd
+PID : 178
+User Name : root
+--------------------------------------------------
+Name : runningboardd
+PID : 179
+User Name : root
+--------------------------------------------------
+Name : trustd
+PID : 180
+User Name : _trustd
+--------------------------------------------------
+Name : mDNSResponder
+PID : 181
+User Name : _mdnsresponder
+--------------------------------------------------
+Name : containermanager
+PID : 182
+User Name : root
+--------------------------------------------------
+Name : liquiddetectiond
+PID : 183
+User Name : root
+--------------------------------------------------
+Name : apfsd
+PID : 184
+User Name : root
+--------------------------------------------------
+Name : nsurlsessiond
+PID : 185
+User Name : _nsurlsessiond
+--------------------------------------------------
+Name : centaurid
+PID : 186
+User Name : root
+--------------------------------------------------
+Name : systemstatusd
+PID : 187
+User Name : root
+--------------------------------------------------
+Name : nehelper
+PID : 188
+User Name : root
+--------------------------------------------------
+Name : trustdFileHelper
+PID : 189
+User Name : root
+--------------------------------------------------
+Name : accessoryd
+PID : 190
+User Name : root
+--------------------------------------------------
+Name : coreaudiod
+PID : 191
+User Name : _coreaudiod
+--------------------------------------------------
+Name : analyticsd
+PID : 192
+User Name : _analyticsd
+--------------------------------------------------
+Name : biometrickitd
+PID : 193
+User Name : root
+--------------------------------------------------
+Name : mobileassetd
+PID : 194
+User Name : root
+--------------------------------------------------
+Name : backupd-helper
+PID : 195
+User Name : root
+--------------------------------------------------
+Name : PowerUIAgent
+PID : 197
+User Name : root
+--------------------------------------------------
+Name : lsd
+PID : 198
+User Name : root
+--------------------------------------------------
+Name : cryptexd
+PID : 200
+User Name : root
+--------------------------------------------------
+Name : airportd
+PID : 202
+User Name : root
+--------------------------------------------------
+Name : eligibilityd
+PID : 203
+User Name : root
+--------------------------------------------------
+Name : hidd
+PID : 205
+User Name : _hidd
+--------------------------------------------------
+Name : secinitd
+PID : 212
+User Name : root
+--------------------------------------------------
+Name : findmydeviced
+PID : 213
+User Name : root
+--------------------------------------------------
+Name : distnoted
+PID : 215
+User Name : _coreaudiod
+--------------------------------------------------
+Name : symptomsd
+PID : 216
+User Name : _networkd
+--------------------------------------------------
+Name : authd
+PID : 217
+User Name : root
+--------------------------------------------------
+Name : distnoted
+PID : 218
+User Name : _windowserver
+--------------------------------------------------
+Name : tzd
+PID : 219
+User Name : root
+--------------------------------------------------
+Name : distnoted
+PID : 221
+User Name : root
+--------------------------------------------------
+Name : biomed
+PID : 222
+User Name : _biome
+--------------------------------------------------
+Name : socketfilterfw
+PID : 233
+User Name : root
+--------------------------------------------------
+Name : mDNSResponderHel
+PID : 234
+User Name : root
+--------------------------------------------------
+Name : syspolicyd
+PID : 238
+User Name : root
+--------------------------------------------------
+Name : backupd
+PID : 240
+User Name : root
+--------------------------------------------------
+Name : WirelessRadioMan
+PID : 241
+User Name : root
+--------------------------------------------------
+Name : com.apple.audio.
+PID : 242
+User Name : _coreaudiod
+--------------------------------------------------
+Name : com.apple.audio.
+PID : 243
+User Name : _coreaudiod
+--------------------------------------------------
+Name : findmybeaconingd
+PID : 244
+User Name : root
+--------------------------------------------------
+Name : audiomxd
+PID : 245
+User Name : _audiomxd
+--------------------------------------------------
+Name : sysextd
+PID : 246
+User Name : root
+--------------------------------------------------
+Name : distnoted
+PID : 247
+User Name : _cmiodalassistants
+--------------------------------------------------
+Name : AudioComponentRe
+PID : 249
+User Name : root
+--------------------------------------------------
+Name : colorsync.displa
+PID : 250
+User Name : root
+--------------------------------------------------
+Name : com.apple.ColorS
+PID : 251
+User Name : root
+--------------------------------------------------
+Name : com.apple.audio.
+PID : 252
+User Name : _coreaudiod
+--------------------------------------------------
+Name : colorsyncd
+PID : 253
+User Name : root
+--------------------------------------------------
+Name : cloudd
+PID : 254
+User Name : root
+--------------------------------------------------
+Name : com.apple.CodeSi
+PID : 255
+User Name : root
+--------------------------------------------------
+Name : AppleDeviceQuery
+PID : 256
+User Name : root
+--------------------------------------------------
+Name : audioclocksyncd
+PID : 257
+User Name : root
+--------------------------------------------------
+Name : historicalaudiod
+PID : 258
+User Name : root
+--------------------------------------------------
+Name : audioanalyticsd
+PID : 259
+User Name : root
+--------------------------------------------------
+Name : storagekitd
+PID : 260
+User Name : root
+--------------------------------------------------
+Name : AppleDeviceQuery
+PID : 261
+User Name : _coreaudiod
+--------------------------------------------------
+Name : mobileactivation
+PID : 262
+User Name : root
+--------------------------------------------------
+Name : PerfPowerTelemet
+PID : 263
+User Name : root
+--------------------------------------------------
+Name : com.apple.cmio.v
+PID : 264
+User Name : _cmiodalassistants
+--------------------------------------------------
+Name : cameracaptured
+PID : 266
+User Name : _cmiodalassistants
+--------------------------------------------------
+Name : UVCAssistant
+PID : 268
+User Name : _cmiodalassistants
+--------------------------------------------------
+Name : com.apple.Mobile
+PID : 269
+User Name : root
+--------------------------------------------------
+Name : com.apple.Driver
+PID : 270
+User Name : _driverkit
+--------------------------------------------------
+Name : modelmanagerd
+PID : 272
+User Name : _modelmanagerd
+--------------------------------------------------
+Name : com.apple.AppleU
+PID : 274
+User Name : _driverkit
+--------------------------------------------------
+Name : appleh16camerad
+PID : 275
+User Name : _cmiodalassistants
+--------------------------------------------------
+Name : tzlinkd
+PID : 278
+User Name : root
+--------------------------------------------------
+Name : backgroundtaskma
+PID : 280
+User Name : root
+--------------------------------------------------
+Name : triald_system
+PID : 281
+User Name : root
+--------------------------------------------------
+Name : ACCHWComponentAu
+PID : 282
+User Name : root
+--------------------------------------------------
+Name : XProtectPluginSe
+PID : 283
+User Name : root
+--------------------------------------------------
+Name : suhelperd
+PID : 284
+User Name : root
+--------------------------------------------------
+Name : symptomsd-diag
+PID : 288
+User Name : root
+--------------------------------------------------
+Name : CategoriesServic
+PID : 290
+User Name : root
+--------------------------------------------------
+Name : softwareupdated
+PID : 291
+User Name : _softwareupdate
+--------------------------------------------------
+Name : distnoted
+PID : 292
+User Name : _softwareupdate
+--------------------------------------------------
+Name : osanalyticshelpe
+PID : 293
+User Name : root
+--------------------------------------------------
+Name : rtcreportingd
+PID : 294
+User Name : root
+--------------------------------------------------
+Name : com.apple.geod
+PID : 295
+User Name : _cmiodalassistants
+--------------------------------------------------
+Name : distnoted
+PID : 296
+User Name : _audiomxd
+--------------------------------------------------
+Name : secinitd
+PID : 297
+User Name : _cmiodalassistants
+--------------------------------------------------
+Name : cfprefsd
+PID : 298
+User Name : _cmiodalassistants
+--------------------------------------------------
+Name : AppleCentauriAlp
+PID : 299
+User Name : _driverkit
+--------------------------------------------------
+Name : AppleCentauriCon
+PID : 300
+User Name : _driverkit
+--------------------------------------------------
+Name : AppleCentauriBet
+PID : 301
+User Name : _driverkit
+--------------------------------------------------
+Name : trustd
+PID : 302
+User Name : _cmiodalassistants
+--------------------------------------------------
+Name : containermanager
+PID : 305
+User Name : _cmiodalassistants
+--------------------------------------------------
+Name : com.apple.Mobile
+PID : 310
+User Name : root
+--------------------------------------------------
+Name : writeconfig
+PID : 311
+User Name : root
+--------------------------------------------------
+Name : sysmond
+PID : 313
+User Name : root
+--------------------------------------------------
+Name : systemstats
+PID : 314
+User Name : root
+--------------------------------------------------
+Name : UARPUpdaterServi
+PID : 317
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : UARPUpdaterServi
+PID : 318
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : UARPUpdaterServi
+PID : 319
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : UARPUpdaterServi
+PID : 320
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : UARPUpdaterServi
+PID : 321
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : distnoted
+PID : 322
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : ThunderboltAcces
+PID : 323
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : wifip2pd
+PID : 324
+User Name : root
+--------------------------------------------------
+Name : WiFiCloudAssetsX
+PID : 325
+User Name : root
+--------------------------------------------------
+Name : modelcatalogd
+PID : 328
+User Name : root
+--------------------------------------------------
+Name : searchpartyd
+PID : 329
+User Name : root
+--------------------------------------------------
+Name : wifianalyticsd
+PID : 330
+User Name : root
+--------------------------------------------------
+Name : captiveagent
+PID : 335
+User Name : _captiveagent
+--------------------------------------------------
+Name : appleeventsd
+PID : 336
+User Name : _appleevents
+--------------------------------------------------
+Name : PlugInLibrarySer
+PID : 359
+User Name : root
+--------------------------------------------------
+Name : com.apple.geod
+PID : 372
+User Name : _locationd
+--------------------------------------------------
+Name : distnoted
+PID : 376
+User Name : _locationd
+--------------------------------------------------
+Name : CloudTelemetrySe
+PID : 380
+User Name : root
+--------------------------------------------------
+Name : secinitd
+PID : 384
+User Name : _locationd
+--------------------------------------------------
+Name : cfprefsd
+PID : 388
+User Name : _locationd
+--------------------------------------------------
+Name : bootinstalld
+PID : 391
+User Name : root
+--------------------------------------------------
+Name : trustd
+PID : 392
+User Name : _locationd
+--------------------------------------------------
+Name : containermanager
+PID : 394
+User Name : _locationd
+--------------------------------------------------
+Name : system_installd
+PID : 395
+User Name : root
+--------------------------------------------------
+Name : kernelmanager_he
+PID : 397
+User Name : root
+--------------------------------------------------
+Name : ContextService
+PID : 404
+User Name : root
+--------------------------------------------------
+Name : mds_stores
+PID : 405
+User Name : _mds_stores
+--------------------------------------------------
+Name : MTLCompilerServi
+PID : 408
+User Name : root
+--------------------------------------------------
+Name : MTLCompilerServi
+PID : 409
+User Name : root
+--------------------------------------------------
+Name : iconservicesagen
+PID : 411
+User Name : root
+--------------------------------------------------
+Name : countryd
+PID : 419
+User Name : root
+--------------------------------------------------
+Name : distnoted
+PID : 420
+User Name : _nsurlsessiond
+--------------------------------------------------
+Name : netbiosd
+PID : 457
+User Name : _netbios
+--------------------------------------------------
+Name : distnoted
+PID : 462
+User Name : _spotlight
+--------------------------------------------------
+Name : oahd
+PID : 471
+User Name : _oahd
+--------------------------------------------------
+Name : FindMyDeviceShar
+PID : 476
+User Name : root
+--------------------------------------------------
+Name : ecosystemanalyti
+PID : 480
+User Name : root
+--------------------------------------------------
+Name : distnoted
+PID : 483
+User Name : sahilpatil
+--------------------------------------------------
+Name : nfcd
+PID : 490
+User Name : _applepay
+--------------------------------------------------
+Name : ecosystemd
+PID : 497
+User Name : root
+--------------------------------------------------
+Name : NFStorageServer
+PID : 498
+User Name : _applepay
+--------------------------------------------------
+Name : coreauthd
+PID : 499
+User Name : root
+--------------------------------------------------
+Name : distnoted
+PID : 500
+User Name : _applepay
+--------------------------------------------------
+Name : applekeystored
+PID : 501
+User Name : root
+--------------------------------------------------
+Name : cfprefsd
+PID : 502
+User Name : sahilpatil
+--------------------------------------------------
+Name : gamepolicyd
+PID : 503
+User Name : root
+--------------------------------------------------
+Name : tailspind
+PID : 504
+User Name : root
+--------------------------------------------------
+Name : ospredictiond
+PID : 505
+User Name : root
+--------------------------------------------------
+Name : corekdld
+PID : 507
+User Name : root
+--------------------------------------------------
+Name : secd
+PID : 509
+User Name : sahilpatil
+--------------------------------------------------
+Name : akd
+PID : 516
+User Name : root
+--------------------------------------------------
+Name : adid
+PID : 517
+User Name : _fpsd
+--------------------------------------------------
+Name : ctkd
+PID : 518
+User Name : _ctkd
+--------------------------------------------------
+Name : kdc
+PID : 519
+User Name : root
+--------------------------------------------------
+Name : UserEventAgent
+PID : 520
+User Name : sahilpatil
+--------------------------------------------------
+Name : gamecontrollerd
+PID : 521
+User Name : _gamecontrollerd
+--------------------------------------------------
+Name : seld
+PID : 522
+User Name : _applepay
+--------------------------------------------------
+Name : uarpd
+PID : 523
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : knowledge-agent
+PID : 525
+User Name : sahilpatil
+--------------------------------------------------
+Name : ContinuityCaptureAgent
+PID : 526
+User Name : sahilpatil
+--------------------------------------------------
+Name : CoreServicesUIAgent
+PID : 527
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.sbd
+PID : 528
+User Name : sahilpatil
+--------------------------------------------------
+Name : universalaccessd
+PID : 529
+User Name : sahilpatil
+--------------------------------------------------
+Name : accountsd
+PID : 531
+User Name : sahilpatil
+--------------------------------------------------
+Name : pboard
+PID : 533
+User Name : sahilpatil
+--------------------------------------------------
+Name : containermanagerd
+PID : 534
+User Name : sahilpatil
+--------------------------------------------------
+Name : BackgroundTaskManagementAgent
+PID : 535
+User Name : sahilpatil
+--------------------------------------------------
+Name : BiomeAgent
+PID : 536
+User Name : sahilpatil
+--------------------------------------------------
+Name : lsd
+PID : 537
+User Name : sahilpatil
+--------------------------------------------------
+Name : cdpd
+PID : 538
+User Name : sahilpatil
+--------------------------------------------------
+Name : linkd
+PID : 539
+User Name : sahilpatil
+--------------------------------------------------
+Name : TrustedPeersHelper
+PID : 540
+User Name : sahilpatil
+--------------------------------------------------
+Name : APFSUserAgent
+PID : 541
+User Name : sahilpatil
+--------------------------------------------------
+Name : mobilerepaird
+PID : 542
+User Name : sahilpatil
+--------------------------------------------------
+Name : nsurlsessiond
+PID : 544
+User Name : sahilpatil
+--------------------------------------------------
+Name : AccessibilityVisualsAgent
+PID : 545
+User Name : sahilpatil
+--------------------------------------------------
+Name : CommCenter
+PID : 546
+User Name : sahilpatil
+--------------------------------------------------
+Name : rapportd
+PID : 547
+User Name : sahilpatil
+--------------------------------------------------
+Name : usernoted
+PID : 548
+User Name : sahilpatil
+--------------------------------------------------
+Name : routined
+PID : 549
+User Name : sahilpatil
+--------------------------------------------------
+Name : cloudd
+PID : 550
+User Name : sahilpatil
+--------------------------------------------------
+Name : ContextStoreAgent
+PID : 551
+User Name : sahilpatil
+--------------------------------------------------
+Name : usernotificationsd
+PID : 552
+User Name : sahilpatil
+--------------------------------------------------
+Name : secinitd
+PID : 553
+User Name : sahilpatil
+--------------------------------------------------
+Name : trustd
+PID : 556
+User Name : sahilpatil
+--------------------------------------------------
+Name : followupd
+PID : 557
+User Name : sahilpatil
+--------------------------------------------------
+Name : CoreLocationAgent
+PID : 558
+User Name : sahilpatil
+--------------------------------------------------
+Name : callservicesd
+PID : 559
+User Name : sahilpatil
+--------------------------------------------------
+Name : migrationhelper
+PID : 560
+User Name : sahilpatil
+--------------------------------------------------
+Name : homed
+PID : 562
+User Name : sahilpatil
+--------------------------------------------------
+Name : ScreenTimeAgent
+PID : 563
+User Name : sahilpatil
+--------------------------------------------------
+Name : syncdefaultsd
+PID : 565
+User Name : sahilpatil
+--------------------------------------------------
+Name : identityservicesd
+PID : 566
+User Name : sahilpatil
+--------------------------------------------------
+Name : assessmentagent
+PID : 567
+User Name : sahilpatil
+--------------------------------------------------
+Name : WiFiAgent
+PID : 570
+User Name : sahilpatil
+--------------------------------------------------
+Name : photolibraryd
+PID : 571
+User Name : sahilpatil
+--------------------------------------------------
+Name : replicatord
+PID : 572
+User Name : sahilpatil
+--------------------------------------------------
+Name : networkserviceproxy
+PID : 573
+User Name : sahilpatil
+--------------------------------------------------
+Name : neagent
+PID : 574
+User Name : sahilpatil
+--------------------------------------------------
+Name : dmd
+PID : 575
+User Name : sahilpatil
+--------------------------------------------------
+Name : familycircled
+PID : 576
+User Name : sahilpatil
+--------------------------------------------------
+Name : tccd
+PID : 577
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.geod
+PID : 578
+User Name : sahilpatil
+--------------------------------------------------
+Name : filecoordination
+PID : 579
+User Name : root
+--------------------------------------------------
+Name : donotdisturbd
+PID : 581
+User Name : sahilpatil
+--------------------------------------------------
+Name : imagent
+PID : 584
+User Name : sahilpatil
+--------------------------------------------------
+Name : ScopedBookmarkAgent
+PID : 585
+User Name : sahilpatil
+--------------------------------------------------
+Name : findmylocateagent
+PID : 586
+User Name : sahilpatil
+--------------------------------------------------
+Name : PlugInLibraryService
+PID : 587
+User Name : sahilpatil
+--------------------------------------------------
+Name : IMDPersistenceAgent
+PID : 588
+User Name : sahilpatil
+--------------------------------------------------
+Name : ManagedSettingsAgent
+PID : 589
+User Name : sahilpatil
+--------------------------------------------------
+Name : appleaccountd
+PID : 590
+User Name : sahilpatil
+--------------------------------------------------
+Name : transparencyd
+PID : 591
+User Name : sahilpatil
+--------------------------------------------------
+Name : sharingd
+PID : 592
+User Name : sahilpatil
+--------------------------------------------------
+Name : sociallayerd
+PID : 593
+User Name : sahilpatil
+--------------------------------------------------
+Name : suggestd
+PID : 594
+User Name : sahilpatil
+--------------------------------------------------
+Name : frauddefensed
+PID : 595
+User Name : sahilpatil
+--------------------------------------------------
+Name : pkd
+PID : 596
+User Name : sahilpatil
+--------------------------------------------------
+Name : axassetsd
+PID : 597
+User Name : sahilpatil
+--------------------------------------------------
+Name : pbs
+PID : 598
+User Name : sahilpatil
+--------------------------------------------------
+Name : akd
+PID : 599
+User Name : sahilpatil
+--------------------------------------------------
+Name : AppSSOAgent
+PID : 600
+User Name : sahilpatil
+--------------------------------------------------
+Name : ProtectedCloudKeySyncing
+PID : 601
+User Name : sahilpatil
+--------------------------------------------------
+Name : Keychain Circle Notification
+PID : 602
+User Name : sahilpatil
+--------------------------------------------------
+Name : bird
+PID : 605
+User Name : sahilpatil
+--------------------------------------------------
+Name : sharedfilelistd
+PID : 606
+User Name : sahilpatil
+--------------------------------------------------
+Name : coreauthd
+PID : 607
+User Name : sahilpatil
+--------------------------------------------------
+Name : deleted
+PID : 608
+User Name : sahilpatil
+--------------------------------------------------
+Name : fileproviderd
+PID : 609
+User Name : sahilpatil
+--------------------------------------------------
+Name : progressd
+PID : 610
+User Name : sahilpatil
+--------------------------------------------------
+Name : CloudTelemetryService
+PID : 611
+User Name : sahilpatil
+--------------------------------------------------
+Name : AudioComponentRegistrar
+PID : 612
+User Name : sahilpatil
+--------------------------------------------------
+Name : maild
+PID : 616
+User Name : sahilpatil
+--------------------------------------------------
+Name : jetpackassetd
+PID : 618
+User Name : sahilpatil
+--------------------------------------------------
+Name : ContextService
+PID : 619
+User Name : sahilpatil
+--------------------------------------------------
+Name : siriactionsd
+PID : 620
+User Name : sahilpatil
+--------------------------------------------------
+Name : siriknowledged
+PID : 621
+User Name : sahilpatil
+--------------------------------------------------
+Name : searchpartyuseragent
+PID : 622
+User Name : sahilpatil
+--------------------------------------------------
+Name : diagnosticextensionsd
+PID : 623
+User Name : sahilpatil
+--------------------------------------------------
+Name : UsageTrackingAgent
+PID : 624
+User Name : sahilpatil
+--------------------------------------------------
+Name : FeatureAccessAgent
+PID : 625
+User Name : sahilpatil
+--------------------------------------------------
+Name : siriinferenced
+PID : 626
+User Name : sahilpatil
+--------------------------------------------------
+Name : assistantd
+PID : 627
+User Name : sahilpatil
+--------------------------------------------------
+Name : ctkd
+PID : 628
+User Name : sahilpatil
+--------------------------------------------------
+Name : GamePolicyAgent
+PID : 629
+User Name : sahilpatil
+--------------------------------------------------
+Name : sirittsd
+PID : 630
+User Name : sahilpatil
+--------------------------------------------------
+Name : generativeexperiencesd
+PID : 631
+User Name : sahilpatil
+--------------------------------------------------
+Name : assistant_cdmd
+PID : 632
+User Name : sahilpatil
+--------------------------------------------------
+Name : triald
+PID : 633
+User Name : sahilpatil
+--------------------------------------------------
+Name : audioaccessoryd
+PID : 634
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.CloudPhotosConfiguration
+PID : 636
+User Name : sahilpatil
+--------------------------------------------------
+Name : nearbyd
+PID : 637
+User Name : _nearbyd
+--------------------------------------------------
+Name : distnoted
+PID : 638
+User Name : _gamecontrollerd
+--------------------------------------------------
+Name : gamecontrolleragentd
+PID : 639
+User Name : sahilpatil
+--------------------------------------------------
+Name : ControlCenter
+PID : 640
+User Name : sahilpatil
+--------------------------------------------------
+Name : assetsubscriptio
+PID : 641
+User Name : root
+--------------------------------------------------
+Name : com.apple.audio.SandboxHelper
+PID : 642
+User Name : sahilpatil
+--------------------------------------------------
+Name : appinstalld
+PID : 643
+User Name : _appinstalld
+--------------------------------------------------
+Name : com.apple.Mobile
+PID : 644
+User Name : root
+--------------------------------------------------
+Name : distnoted
+PID : 645
+User Name : _appinstalld
+--------------------------------------------------
+Name : aneuserd
+PID : 646
+User Name : _neuralengine
+--------------------------------------------------
+Name : aned
+PID : 647
+User Name : root
+--------------------------------------------------
+Name : online-auth-agen
+PID : 648
+User Name : root
+--------------------------------------------------
+Name : SetStoreUpdateService
+PID : 649
+User Name : sahilpatil
+--------------------------------------------------
+Name : IOUserBluetoothS
+PID : 650
+User Name : _driverkit
+--------------------------------------------------
+Name : TrialArchivingService
+PID : 651
+User Name : sahilpatil
+--------------------------------------------------
+Name : mediaanalysisd
+PID : 652
+User Name : sahilpatil
+--------------------------------------------------
+Name : photoanalysisd
+PID : 654
+User Name : sahilpatil
+--------------------------------------------------
+Name : AccessibilityUIServer
+PID : 655
+User Name : sahilpatil
+--------------------------------------------------
+Name : systemsoundserve
+PID : 656
+User Name : root
+--------------------------------------------------
+Name : calaccessd
+PID : 657
+User Name : sahilpatil
+--------------------------------------------------
+Name : financed
+PID : 658
+User Name : sahilpatil
+--------------------------------------------------
+Name : voicebankingd
+PID : 659
+User Name : sahilpatil
+--------------------------------------------------
+Name : amsaccountsd
+PID : 660
+User Name : sahilpatil
+--------------------------------------------------
+Name : ndoagent
+PID : 661
+User Name : sahilpatil
+--------------------------------------------------
+Name : communicationtrustd
+PID : 662
+User Name : sahilpatil
+--------------------------------------------------
+Name : CMFSyncAgent
+PID : 663
+User Name : sahilpatil
+--------------------------------------------------
+Name : corespotlightd
+PID : 664
+User Name : sahilpatil
+--------------------------------------------------
+Name : textunderstandingd
+PID : 665
+User Name : sahilpatil
+--------------------------------------------------
+Name : corespeechd
+PID : 666
+User Name : sahilpatil
+--------------------------------------------------
+Name : distnoted
+PID : 669
+User Name : _corespeechd
+--------------------------------------------------
+Name : containermanager
+PID : 670
+User Name : _corespeechd
+--------------------------------------------------
+Name : ModelCatalogAgent
+PID : 671
+User Name : sahilpatil
+--------------------------------------------------
+Name : AssetCacheTether
+PID : 672
+User Name : root
+--------------------------------------------------
+Name : parsecd
+PID : 673
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.audio.
+PID : 675
+User Name : root
+--------------------------------------------------
+Name : talagentd
+PID : 676
+User Name : sahilpatil
+--------------------------------------------------
+Name : WindowManager
+PID : 677
+User Name : sahilpatil
+--------------------------------------------------
+Name : PlugInLibraryService
+PID : 678
+User Name : sahilpatil
+--------------------------------------------------
+Name : itunescloudd
+PID : 679
+User Name : sahilpatil
+--------------------------------------------------
+Name : distnoted
+PID : 680
+User Name : _appleevents
+--------------------------------------------------
+Name : localspeechrecognition
+PID : 681
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.hiservices-xpcservice
+PID : 682
+User Name : sahilpatil
+--------------------------------------------------
+Name : cloudphotod
+PID : 684
+User Name : sahilpatil
+--------------------------------------------------
+Name : fontd
+PID : 685
+User Name : sahilpatil
+--------------------------------------------------
+Name : ContainerMetadataExtractor
+PID : 686
+User Name : sahilpatil
+--------------------------------------------------
+Name : AssetCacheLocatorService
+PID : 687
+User Name : sahilpatil
+--------------------------------------------------
+Name : chronod
+PID : 688
+User Name : sahilpatil
+--------------------------------------------------
+Name : StatusKitAgent
+PID : 689
+User Name : sahilpatil
+--------------------------------------------------
+Name : NotificationCenter
+PID : 690
+User Name : sahilpatil
+--------------------------------------------------
+Name : fontworker
+PID : 691
+User Name : sahilpatil
+--------------------------------------------------
+Name : csnameddatad
+PID : 692
+User Name : sahilpatil
+--------------------------------------------------
+Name : UIKitSystem
+PID : 693
+User Name : sahilpatil
+--------------------------------------------------
+Name : ViewBridgeAuxiliary
+PID : 694
+User Name : sahilpatil
+--------------------------------------------------
+Name : distnoted
+PID : 696
+User Name : _securityagent
+--------------------------------------------------
+Name : com.apple.FaceTime.FTConversationService
+PID : 697
+User Name : sahilpatil
+--------------------------------------------------
+Name : localspeechrecognition
+PID : 698
+User Name : sahilpatil
+--------------------------------------------------
+Name : translationd
+PID : 699
+User Name : sahilpatil
+--------------------------------------------------
+Name : fairplayd
+PID : 700
+User Name : _fpsd
+--------------------------------------------------
+Name : useractivityd
+PID : 701
+User Name : sahilpatil
+--------------------------------------------------
+Name : avconferenced
+PID : 702
+User Name : sahilpatil
+--------------------------------------------------
+Name : mediaremoteagent
+PID : 703
+User Name : sahilpatil
+--------------------------------------------------
+Name : AudioConverterHardenedService
+PID : 704
+User Name : sahilpatil
+--------------------------------------------------
+Name : AudioConverterService
+PID : 705
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.audio.SandboxHelper
+PID : 706
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.audio.SandboxHelper
+PID : 707
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.audio.SandboxHelper
+PID : 708
+User Name : sahilpatil
+--------------------------------------------------
+Name : swtransparencyd
+PID : 709
+User Name : sahilpatil
+--------------------------------------------------
+Name : CloudTelemetryService
+PID : 710
+User Name : sahilpatil
+--------------------------------------------------
+Name : seserviced
+PID : 711
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.DictionaryServiceHelper
+PID : 712
+User Name : sahilpatil
+--------------------------------------------------
+Name : keyboardservicesd
+PID : 713
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.siri.embeddedspeech
+PID : 714
+User Name : sahilpatil
+--------------------------------------------------
+Name : AssetCacheLocato
+PID : 715
+User Name : _assetcache
+--------------------------------------------------
+Name : localspeechrecognition
+PID : 716
+User Name : sahilpatil
+--------------------------------------------------
+Name : extensionkitservice
+PID : 717
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.CloudDocs.iCloudDriveFileProvider
+PID : 718
+User Name : sahilpatil
+--------------------------------------------------
+Name : WiFiCloudAssetsXPCService
+PID : 719
+User Name : sahilpatil
+--------------------------------------------------
+Name : bluetoothuserd
+PID : 720
+User Name : sahilpatil
+--------------------------------------------------
+Name : spotlightknowledged.updater
+PID : 721
+User Name : sahilpatil
+--------------------------------------------------
+Name : ReportCrash
+PID : 722
+User Name : sahilpatil
+--------------------------------------------------
+Name : coresymbolicatio
+PID : 724
+User Name : root
+--------------------------------------------------
+Name : com.apple.audio.SandboxHelper
+PID : 725
+User Name : sahilpatil
+--------------------------------------------------
+Name : STExtractionServ
+PID : 728
+User Name : _nsurlsessiond
+--------------------------------------------------
+Name : com.apple.audio.SandboxHelper
+PID : 729
+User Name : sahilpatil
+--------------------------------------------------
+Name : SiriSuggestionsBookkeepingService
+PID : 730
+User Name : sahilpatil
+--------------------------------------------------
+Name : mdbulkimport
+PID : 731
+User Name : sahilpatil
+--------------------------------------------------
+Name : localizationswitcherd
+PID : 732
+User Name : sahilpatil
+--------------------------------------------------
+Name : GSSCred
+PID : 734
+User Name : root
+--------------------------------------------------
+Name : AppSSODaemon
+PID : 735
+User Name : root
+--------------------------------------------------
+Name : duetexpertd
+PID : 736
+User Name : sahilpatil
+--------------------------------------------------
+Name : appplaceholdersyncd
+PID : 738
+User Name : sahilpatil
+--------------------------------------------------
+Name : liveactivitiesd
+PID : 739
+User Name : sahilpatil
+--------------------------------------------------
+Name : csimporter
+PID : 740
+User Name : sahilpatil
+--------------------------------------------------
+Name : extensionkitservice
+PID : 743
+User Name : sahilpatil
+--------------------------------------------------
+Name : WindowManagerControlsExtension
+PID : 744
+User Name : sahilpatil
+--------------------------------------------------
+Name : PodcastsWidget
+PID : 746
+User Name : sahilpatil
+--------------------------------------------------
+Name : WallpaperControlsExtension
+PID : 747
+User Name : sahilpatil
+--------------------------------------------------
+Name : FindMyWidgetItems
+PID : 748
+User Name : sahilpatil
+--------------------------------------------------
+Name : HomeWidget
+PID : 749
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.Notes.WidgetExtension
+PID : 750
+User Name : sahilpatil
+--------------------------------------------------
+Name : ScreenTimeWidgetExtension
+PID : 751
+User Name : sahilpatil
+--------------------------------------------------
+Name : FindMyWidgetPeople
+PID : 752
+User Name : sahilpatil
+--------------------------------------------------
+Name : ShortcutLiveActivityWidgetExtension
+PID : 753
+User Name : sahilpatil
+--------------------------------------------------
+Name : iCloudNotificationAgent
+PID : 754
+User Name : sahilpatil
+--------------------------------------------------
+Name : HomeEnergyWidgetsExtension
+PID : 755
+User Name : sahilpatil
+--------------------------------------------------
+Name : DockControls
+PID : 756
+User Name : sahilpatil
+--------------------------------------------------
+Name : SafariWidgetExtension
+PID : 757
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.Notes.IntentsExtension
+PID : 758
+User Name : sahilpatil
+--------------------------------------------------
+Name : StocksWidget
+PID : 759
+User Name : sahilpatil
+--------------------------------------------------
+Name : ShortcutsWidgetExtension
+PID : 760
+User Name : sahilpatil
+--------------------------------------------------
+Name : PhotosReliveWidget
+PID : 762
+User Name : sahilpatil
+--------------------------------------------------
+Name : ScreenTimeWidgetIntentsExtension
+PID : 765
+User Name : sahilpatil
+--------------------------------------------------
+Name : amsengagementd
+PID : 766
+User Name : sahilpatil
+--------------------------------------------------
+Name : iconservicesagent
+PID : 767
+User Name : sahilpatil
+--------------------------------------------------
+Name : MacinTalkAUSP
+PID : 769
+User Name : sahilpatil
+--------------------------------------------------
+Name : SiriAUSP
+PID : 770
+User Name : sahilpatil
+--------------------------------------------------
+Name : intents_helper
+PID : 771
+User Name : sahilpatil
+--------------------------------------------------
+Name : intents_helper
+PID : 772
+User Name : sahilpatil
+--------------------------------------------------
+Name : KonaSynthesizer
+PID : 773
+User Name : sahilpatil
+--------------------------------------------------
+Name : MauiAUSP
+PID : 774
+User Name : sahilpatil
+--------------------------------------------------
+Name : WardaSynthesizer
+PID : 775
+User Name : sahilpatil
+--------------------------------------------------
+Name : WorldClockWidget
+PID : 776
+User Name : sahilpatil
+--------------------------------------------------
+Name : RemindersWidgetExtension
+PID : 777
+User Name : sahilpatil
+--------------------------------------------------
+Name : JournalWidgets
+PID : 778
+User Name : sahilpatil
+--------------------------------------------------
+Name : deleted_helper
+PID : 779
+User Name : root
+--------------------------------------------------
+Name : com.apple.audio.SandboxHelper
+PID : 780
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.audio.SandboxHelper
+PID : 781
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.audio.SandboxHelper
+PID : 782
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.audio.SandboxHelper
+PID : 783
+User Name : sahilpatil
+--------------------------------------------------
+Name : AUCrashHandlerService
+PID : 784
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.audio.SandboxHelper
+PID : 785
+User Name : sahilpatil
+--------------------------------------------------
+Name : PeopleWidget_macOSExtension
+PID : 786
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.hiserv
+PID : 787
+User Name : root
+--------------------------------------------------
+Name : CalendarWidgetExtension
+PID : 788
+User Name : sahilpatil
+--------------------------------------------------
+Name : WeatherWidget
+PID : 789
+User Name : sahilpatil
+--------------------------------------------------
+Name : JournalWidgetsSecure
+PID : 790
+User Name : sahilpatil
+--------------------------------------------------
+Name : CloudTelemetrySe
+PID : 791
+User Name : root
+--------------------------------------------------
+Name : XProtectBridgeSe
+PID : 792
+User Name : root
+--------------------------------------------------
+Name : TipsWidgetExtension
+PID : 793
+User Name : sahilpatil
+--------------------------------------------------
+Name : replayd
+PID : 794
+User Name : sahilpatil
+--------------------------------------------------
+Name : diagnostics_agent
+PID : 795
+User Name : sahilpatil
+--------------------------------------------------
+Name : geodMachServiceBridge
+PID : 796
+User Name : sahilpatil
+--------------------------------------------------
+Name : appstoreagent
+PID : 797
+User Name : sahilpatil
+--------------------------------------------------
+Name : installd
+PID : 798
+User Name : root
+--------------------------------------------------
+Name : com.apple.quicklook.ThumbnailsAgent
+PID : 799
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 800
+User Name : sahilpatil
+--------------------------------------------------
+Name : passd
+PID : 803
+User Name : sahilpatil
+--------------------------------------------------
+Name : spindump
+PID : 806
+User Name : root
+--------------------------------------------------
+Name : spindump_agent
+PID : 807
+User Name : sahilpatil
+--------------------------------------------------
+Name : SubmitDiagInfo
+PID : 808
+User Name : root
+--------------------------------------------------
+Name : BatteriesAvocadoWidgetExtension
+PID : 809
+User Name : sahilpatil
+--------------------------------------------------
+Name : installcoordinat
+PID : 810
+User Name : _installcoordinationd
+--------------------------------------------------
+Name : distnoted
+PID : 811
+User Name : _installcoordinationd
+--------------------------------------------------
+Name : MTLAssetUpgraderD
+PID : 812
+User Name : sahilpatil
+--------------------------------------------------
+Name : swcd
+PID : 813
+User Name : sahilpatil
+--------------------------------------------------
+Name : MENotificationAgent
+PID : 814
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.AppSto
+PID : 815
+User Name : root
+--------------------------------------------------
+Name : intelligentroutingd
+PID : 816
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 817
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 818
+User Name : sahilpatil
+--------------------------------------------------
+Name : mobiletimerd
+PID : 819
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome
+PID : 820
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 822
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 823
+User Name : sahilpatil
+--------------------------------------------------
+Name : intents_helper
+PID : 824
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 825
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 826
+User Name : sahilpatil
+--------------------------------------------------
+Name : LoginUserService
+PID : 827
+User Name : sahilpatil
+--------------------------------------------------
+Name : SetStoreUpdateService
+PID : 828
+User Name : sahilpatil
+--------------------------------------------------
+Name : recentsd
+PID : 830
+User Name : sahilpatil
+--------------------------------------------------
+Name : Code
+PID : 832
+User Name : sahilpatil
+--------------------------------------------------
+Name : Terminal
+PID : 833
+User Name : sahilpatil
+--------------------------------------------------
+Name : GitHub Desktop
+PID : 834
+User Name : sahilpatil
+--------------------------------------------------
+Name : System Settings
+PID : 835
+User Name : sahilpatil
+--------------------------------------------------
+Name : Preview
+PID : 837
+User Name : sahilpatil
+--------------------------------------------------
+Name : Dock
+PID : 838
+User Name : sahilpatil
+--------------------------------------------------
+Name : SystemUIServer
+PID : 839
+User Name : sahilpatil
+--------------------------------------------------
+Name : Finder
+PID : 840
+User Name : sahilpatil
+--------------------------------------------------
+Name : milod
+PID : 844
+User Name : sahilpatil
+--------------------------------------------------
+Name : WallpaperAgent
+PID : 845
+User Name : sahilpatil
+--------------------------------------------------
+Name : QuickLookUIService
+PID : 846
+User Name : sahilpatil
+--------------------------------------------------
+Name : automountd
+PID : 847
+User Name : root
+--------------------------------------------------
+Name : AMPDeviceDiscoveryAgent
+PID : 848
+User Name : sahilpatil
+--------------------------------------------------
+Name : wallpaperexportd
+PID : 849
+User Name : root
+--------------------------------------------------
+Name : MTLCompilerServi
+PID : 850
+User Name : root
+--------------------------------------------------
+Name : MTLCompilerServi
+PID : 851
+User Name : root
+--------------------------------------------------
+Name : ctkahp
+PID : 853
+User Name : root
+--------------------------------------------------
+Name : extensionkitservice
+PID : 854
+User Name : sahilpatil
+--------------------------------------------------
+Name : AuthenticationServicesAgent
+PID : 855
+User Name : sahilpatil
+--------------------------------------------------
+Name : WallpaperAerialsExtension
+PID : 856
+User Name : sahilpatil
+--------------------------------------------------
+Name : CursorUIViewService
+PID : 859
+User Name : sahilpatil
+--------------------------------------------------
+Name : PlugInLibraryService
+PID : 860
+User Name : sahilpatil
+--------------------------------------------------
+Name : VTDecoderXPCServ
+PID : 861
+User Name : root
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 862
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 863
+User Name : sahilpatil
+--------------------------------------------------
+Name : promotedcontentd
+PID : 864
+User Name : sahilpatil
+--------------------------------------------------
+Name : deviceinterfaced
+PID : 865
+User Name : root
+--------------------------------------------------
+Name : ctkahp
+PID : 867
+User Name : sahilpatil
+--------------------------------------------------
+Name : ANECompilerServi
+PID : 869
+User Name : root
+--------------------------------------------------
+Name : keychainsharingmessagingd
+PID : 870
+User Name : sahilpatil
+--------------------------------------------------
+Name : fairplaydeviceid
+PID : 871
+User Name : _fpsd
+--------------------------------------------------
+Name : VTDecoderXPCService
+PID : 872
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 873
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.dock.extra
+PID : 874
+User Name : sahilpatil
+--------------------------------------------------
+Name : CallHistoryPluginHelper
+PID : 875
+User Name : sahilpatil
+--------------------------------------------------
+Name : intelligenceplatformd
+PID : 876
+User Name : sahilpatil
+--------------------------------------------------
+Name : login
+PID : 877
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.audio.
+PID : 878
+User Name : root
+--------------------------------------------------
+Name : zsh
+PID : 879
+User Name : sahilpatil
+--------------------------------------------------
+Name : mapssyncd
+PID : 880
+User Name : sahilpatil
+--------------------------------------------------
+Name : analyticsagent
+PID : 882
+User Name : sahilpatil
+--------------------------------------------------
+Name : PromotedContentJetService
+PID : 888
+User Name : sahilpatil
+--------------------------------------------------
+Name : extensionkitservice
+PID : 889
+User Name : sahilpatil
+--------------------------------------------------
+Name : GeneralSettings
+PID : 890
+User Name : sahilpatil
+--------------------------------------------------
+Name : storekitagent
+PID : 891
+User Name : sahilpatil
+--------------------------------------------------
+Name : chrome_crashpad_handler
+PID : 893
+User Name : sahilpatil
+--------------------------------------------------
+Name : GitHub Desktop Helper
+PID : 898
+User Name : sahilpatil
+--------------------------------------------------
+Name : GitHub Desktop Helper
+PID : 899
+User Name : sahilpatil
+--------------------------------------------------
+Name : Code Helper
+PID : 900
+User Name : sahilpatil
+--------------------------------------------------
+Name : chrome_crashpad_handler
+PID : 902
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 903
+User Name : sahilpatil
+--------------------------------------------------
+Name : Code Helper
+PID : 904
+User Name : sahilpatil
+--------------------------------------------------
+Name : GitHub Desktop Helper (Renderer)
+PID : 906
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 907
+User Name : sahilpatil
+--------------------------------------------------
+Name : Spotlight
+PID : 908
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper
+PID : 909
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper
+PID : 910
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper
+PID : 911
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 916
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 918
+User Name : sahilpatil
+--------------------------------------------------
+Name : SafariLaunchAgent
+PID : 927
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 928
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 930
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 932
+User Name : sahilpatil
+--------------------------------------------------
+Name : AppleIDSettings
+PID : 973
+User Name : sahilpatil
+--------------------------------------------------
+Name : PlugInLibraryService
+PID : 982
+User Name : sahilpatil
+--------------------------------------------------
+Name : mdwrite
+PID : 985
+User Name : sahilpatil
+--------------------------------------------------
+Name : findmydevice-user-agent
+PID : 1007
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 1013
+User Name : sahilpatil
+--------------------------------------------------
+Name : dataaccessd
+PID : 1017
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 1026
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 1027
+User Name : sahilpatil
+--------------------------------------------------
+Name : icdd
+PID : 1028
+User Name : sahilpatil
+--------------------------------------------------
+Name : mscamerad-xpc
+PID : 1029
+User Name : sahilpatil
+--------------------------------------------------
+Name : ptpcamerad
+PID : 1030
+User Name : sahilpatil
+--------------------------------------------------
+Name : heard
+PID : 1031
+User Name : sahilpatil
+--------------------------------------------------
+Name : imklaunchagent
+PID : 1034
+User Name : sahilpatil
+--------------------------------------------------
+Name : Siri
+PID : 1036
+User Name : sahilpatil
+--------------------------------------------------
+Name : askpermissiond
+PID : 1038
+User Name : sahilpatil
+--------------------------------------------------
+Name : AirPlayUIAgent
+PID : 1041
+User Name : sahilpatil
+--------------------------------------------------
+Name : WeatherMenu
+PID : 1043
+User Name : sahilpatil
+--------------------------------------------------
+Name : TextInputMenuAgent
+PID : 1044
+User Name : sahilpatil
+--------------------------------------------------
+Name : SoftwareUpdateNotificationManager
+PID : 1047
+User Name : sahilpatil
+--------------------------------------------------
+Name : FindMyMacd
+PID : 1048
+User Name : root
+--------------------------------------------------
+Name : VPN
+PID : 1049
+User Name : sahilpatil
+--------------------------------------------------
+Name : Code Helper (Renderer)
+PID : 1050
+User Name : sahilpatil
+--------------------------------------------------
+Name : FollowUpSettingsExtension
+PID : 1051
+User Name : sahilpatil
+--------------------------------------------------
+Name : TextInputSwitcher
+PID : 1052
+User Name : sahilpatil
+--------------------------------------------------
+Name : HeadphoneSettingsExtension
+PID : 1053
+User Name : sahilpatil
+--------------------------------------------------
+Name : FamilySettings
+PID : 1054
+User Name : sahilpatil
+--------------------------------------------------
+Name : ClassroomSettings
+PID : 1057
+User Name : sahilpatil
+--------------------------------------------------
+Name : studentd
+PID : 1059
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 1061
+User Name : sahilpatil
+--------------------------------------------------
+Name : Code Helper
+PID : 1062
+User Name : sahilpatil
+--------------------------------------------------
+Name : Code Helper
+PID : 1063
+User Name : sahilpatil
+--------------------------------------------------
+Name : Code Helper (Plugin)
+PID : 1064
+User Name : sahilpatil
+--------------------------------------------------
+Name : Code Helper
+PID : 1065
+User Name : sahilpatil
+--------------------------------------------------
+Name : CallHistorySyncHelper
+PID : 1066
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.appkit.xpc.openAndSavePanelService
+PID : 1077
+User Name : sahilpatil
+--------------------------------------------------
+Name : pet
+PID : 1078
+User Name : sahilpatil
+--------------------------------------------------
+Name : QuickLookUIService
+PID : 1082
+User Name : sahilpatil
+--------------------------------------------------
+Name : Code Helper
+PID : 1086
+User Name : sahilpatil
+--------------------------------------------------
+Name : Code Helper
+PID : 1087
+User Name : sahilpatil
+--------------------------------------------------
+Name : zsh
+PID : 1088
+User Name : sahilpatil
+--------------------------------------------------
+Name : UARPAssetManager
+PID : 1091
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : Code Helper (Plugin)
+PID : 1161
+User Name : sahilpatil
+--------------------------------------------------
+Name : inputanalyticsd
+PID : 1167
+User Name : sahilpatil
+--------------------------------------------------
+Name : amsondevicestoraged
+PID : 1212
+User Name : sahilpatil
+--------------------------------------------------
+Name : StocksKitService
+PID : 1218
+User Name : sahilpatil
+--------------------------------------------------
+Name : AMPArtworkAgent
+PID : 1225
+User Name : sahilpatil
+--------------------------------------------------
+Name : lockdownmoded
+PID : 1226
+User Name : sahilpatil
+--------------------------------------------------
+Name : tipsd
+PID : 1227
+User Name : sahilpatil
+--------------------------------------------------
+Name : XProtectPluginService
+PID : 1228
+User Name : sahilpatil
+--------------------------------------------------
+Name : peopled
+PID : 1229
+User Name : sahilpatil
+--------------------------------------------------
+Name : proactived
+PID : 1230
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.StreamingUnzipService
+PID : 1232
+User Name : sahilpatil
+--------------------------------------------------
+Name : CrashReporterSup
+PID : 1233
+User Name : root
+--------------------------------------------------
+Name : PlugInLibraryService
+PID : 1236
+User Name : sahilpatil
+--------------------------------------------------
+Name : extensionkitservice
+PID : 1239
+User Name : sahilpatil
+--------------------------------------------------
+Name : CalendarIntentsExtension
+PID : 1240
+User Name : sahilpatil
+--------------------------------------------------
+Name : SafariLinkExtension
+PID : 1242
+User Name : sahilpatil
+--------------------------------------------------
+Name : MessagesActionExtension
+PID : 1243
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.siri.embeddedspeech
+PID : 1244
+User Name : sahilpatil
+--------------------------------------------------
+Name : CoreThreadCommissionerServiced
+PID : 1245
+User Name : sahilpatil
+--------------------------------------------------
+Name : UniversalControl
+PID : 1246
+User Name : sahilpatil
+--------------------------------------------------
+Name : SetStoreUpdateService
+PID : 1247
+User Name : sahilpatil
+--------------------------------------------------
+Name : BTLEServerAgent
+PID : 1249
+User Name : sahilpatil
+--------------------------------------------------
+Name : UserNotificationCenter
+PID : 1266
+User Name : sahilpatil
+--------------------------------------------------
+Name : IDSBlastDoorService
+PID : 1268
+User Name : sahilpatil
+--------------------------------------------------
+Name : MessagesBlastDoorService
+PID : 1269
+User Name : sahilpatil
+--------------------------------------------------
+Name : wifivelocityd
+PID : 1270
+User Name : root
+--------------------------------------------------
+Name : SidecarRelay
+PID : 1271
+User Name : sahilpatil
+--------------------------------------------------
+Name : ReportSystemMemo
+PID : 1273
+User Name : _reportsystemmemory
+--------------------------------------------------
+Name : diagnosticspushd
+PID : 1274
+User Name : sahilpatil
+--------------------------------------------------
+Name : adprivacyd
+PID : 1275
+User Name : sahilpatil
+--------------------------------------------------
+Name : homeeventsd
+PID : 1277
+User Name : sahilpatil
+--------------------------------------------------
+Name : weatherd
+PID : 1278
+User Name : sahilpatil
+--------------------------------------------------
+Name : ShortcutsViewService
+PID : 1286
+User Name : sahilpatil
+--------------------------------------------------
+Name : trustd
+PID : 1301
+User Name : _spotlight
+--------------------------------------------------
+Name : mdworker
+PID : 1302
+User Name : sahilpatil
+--------------------------------------------------
+Name : mdworker
+PID : 1303
+User Name : _spotlight
+--------------------------------------------------
+Name : fudHelperAgent
+PID : 1310
+User Name : sahilpatil
+--------------------------------------------------
+Name : avatarsd
+PID : 1311
+User Name : sahilpatil
+--------------------------------------------------
+Name : contactsd
+PID : 1349
+User Name : sahilpatil
+--------------------------------------------------
+Name : WallpaperSonomaExtension
+PID : 1362
+User Name : sahilpatil
+--------------------------------------------------
+Name : WallpaperDynamicExtension
+PID : 1363
+User Name : sahilpatil
+--------------------------------------------------
+Name : WallpaperMacintoshExtension
+PID : 1364
+User Name : sahilpatil
+--------------------------------------------------
+Name : WallpaperGradientExtension
+PID : 1365
+User Name : sahilpatil
+--------------------------------------------------
+Name : WallpaperSequoiaExtension
+PID : 1366
+User Name : sahilpatil
+--------------------------------------------------
+Name : WallpaperLegacyExtension
+PID : 1367
+User Name : sahilpatil
+--------------------------------------------------
+Name : NeptuneOneWallpaper
+PID : 1368
+User Name : sahilpatil
+--------------------------------------------------
+Name : WallpaperImageExtension
+PID : 1369
+User Name : sahilpatil
+--------------------------------------------------
+Name : CVMServer
+PID : 1372
+User Name : root
+--------------------------------------------------
+Name : SiriNCService
+PID : 1384
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.geod
+PID : 1461
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : secinitd
+PID : 1462
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : cfprefsd
+PID : 1463
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : trustd
+PID : 1464
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : containermanager
+PID : 1465
+User Name : _accessoryupdater
+--------------------------------------------------
+Name : remotemanagement
+PID : 1469
+User Name : _rmd
+--------------------------------------------------
+Name : SecuritySubscrib
+PID : 1470
+User Name : _rmd
+--------------------------------------------------
+Name : distnoted
+PID : 1471
+User Name : _rmd
+--------------------------------------------------
+Name : InteractiveLegac
+PID : 1472
+User Name : _rmd
+--------------------------------------------------
+Name : ScreenSharingSub
+PID : 1473
+User Name : _rmd
+--------------------------------------------------
+Name : LegacyProfilesSu
+PID : 1476
+User Name : _rmd
+--------------------------------------------------
+Name : PasscodeSettings
+PID : 1477
+User Name : _rmd
+--------------------------------------------------
+Name : DiskManagementSu
+PID : 1478
+User Name : _rmd
+--------------------------------------------------
+Name : ManagedPreferenc
+PID : 1479
+User Name : _rmd
+--------------------------------------------------
+Name : SoftwareUpdateSu
+PID : 1480
+User Name : _rmd
+--------------------------------------------------
+Name : MigrationSubscri
+PID : 1481
+User Name : _rmd
+--------------------------------------------------
+Name : systemmigrationd
+PID : 1482
+User Name : root
+--------------------------------------------------
+Name : ManagedAppsSubsc
+PID : 1483
+User Name : _rmd
+--------------------------------------------------
+Name : managedappdistri
+PID : 1484
+User Name : root
+--------------------------------------------------
+Name : ManagementTestSu
+PID : 1485
+User Name : _rmd
+--------------------------------------------------
+Name : ManagedConfigura
+PID : 1486
+User Name : _rmd
+--------------------------------------------------
+Name : SafariBookmarksSyncAgent
+PID : 1489
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.geod
+PID : 1519
+User Name : root
+--------------------------------------------------
+Name : AssetCacheManage
+PID : 1520
+User Name : root
+--------------------------------------------------
+Name : containermanager
+PID : 1521
+User Name : root
+--------------------------------------------------
+Name : intelligencetasksd
+PID : 1522
+User Name : sahilpatil
+--------------------------------------------------
+Name : IntelligencePlatformComputeService
+PID : 1525
+User Name : sahilpatil
+--------------------------------------------------
+Name : seputil
+PID : 1526
+User Name : root
+--------------------------------------------------
+Name : PasswordBreachAgent
+PID : 1527
+User Name : sahilpatil
+--------------------------------------------------
+Name : feedbackd
+PID : 1528
+User Name : sahilpatil
+--------------------------------------------------
+Name : commerce
+PID : 1542
+User Name : sahilpatil
+--------------------------------------------------
+Name : privatecloudcomputed
+PID : 1545
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.Safari.SafeBrowsing.Service
+PID : 1546
+User Name : sahilpatil
+--------------------------------------------------
+Name : ScreenTimeSettingsAgent
+PID : 1547
+User Name : sahilpatil
+--------------------------------------------------
+Name : CloudTelemetryService
+PID : 1548
+User Name : sahilpatil
+--------------------------------------------------
+Name : intelligencecontextd
+PID : 1549
+User Name : sahilpatil
+--------------------------------------------------
+Name : AppleIntelligenceReportingProcessingService
+PID : 1551
+User Name : sahilpatil
+--------------------------------------------------
+Name : CategoriesService
+PID : 1552
+User Name : sahilpatil
+--------------------------------------------------
+Name : AppPredictionIntentsHelperService
+PID : 1557
+User Name : sahilpatil
+--------------------------------------------------
+Name : RemoteManagementAgent
+PID : 1565
+User Name : sahilpatil
+--------------------------------------------------
+Name : SafariConfigurationSubscriber
+PID : 1566
+User Name : sahilpatil
+--------------------------------------------------
+Name : businessservicesd
+PID : 1567
+User Name : sahilpatil
+--------------------------------------------------
+Name : filevaultd
+PID : 1568
+User Name : sahilpatil
+--------------------------------------------------
+Name : SecuritySubscriber
+PID : 1569
+User Name : sahilpatil
+--------------------------------------------------
+Name : MessagesBlastDoorService
+PID : 1571
+User Name : sahilpatil
+--------------------------------------------------
+Name : InteractiveLegacyProfilesSubscriber
+PID : 1572
+User Name : sahilpatil
+--------------------------------------------------
+Name : ScreenSharingSubscriber
+PID : 1573
+User Name : sahilpatil
+--------------------------------------------------
+Name : LegacyProfilesSubscriber
+PID : 1576
+User Name : sahilpatil
+--------------------------------------------------
+Name : PasscodeSettingsSubscriber
+PID : 1577
+User Name : sahilpatil
+--------------------------------------------------
+Name : AccountSubscriber
+PID : 1578
+User Name : sahilpatil
+--------------------------------------------------
+Name : ManagedAppsSubscriber
+PID : 1579
+User Name : sahilpatil
+--------------------------------------------------
+Name : managedappdistributionagent
+PID : 1580
+User Name : sahilpatil
+--------------------------------------------------
+Name : ManagementTestSubscriber
+PID : 1581
+User Name : sahilpatil
+--------------------------------------------------
+Name : ASConfigurationSubscriber
+PID : 1582
+User Name : sahilpatil
+--------------------------------------------------
+Name : ManagedSettingsSubscriber
+PID : 1583
+User Name : sahilpatil
+--------------------------------------------------
+Name : WiFiCloudAssetsX
+PID : 1591
+User Name : root
+--------------------------------------------------
+Name : mlhostd
+PID : 1604
+User Name : sahilpatil
+--------------------------------------------------
+Name : CloudTelemetryService
+PID : 1605
+User Name : sahilpatil
+--------------------------------------------------
+Name : extensionkitservice
+PID : 1606
+User Name : sahilpatil
+--------------------------------------------------
+Name : ASPCarryLog
+PID : 1618
+User Name : root
+--------------------------------------------------
+Name : backgroundassets.user
+PID : 1619
+User Name : sahilpatil
+--------------------------------------------------
+Name : proactiveeventtrackerd
+PID : 1630
+User Name : sahilpatil
+--------------------------------------------------
+Name : sysdiagnosed
+PID : 1641
+User Name : root
+--------------------------------------------------
+Name : media-indexer
+PID : 1648
+User Name : sahilpatil
+--------------------------------------------------
+Name : AMPLibraryAgent
+PID : 1649
+User Name : sahilpatil
+--------------------------------------------------
+Name : PodcastContentService
+PID : 1650
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.BKAgentService
+PID : 1651
+User Name : sahilpatil
+--------------------------------------------------
+Name : PlugInLibraryService
+PID : 1654
+User Name : sahilpatil
+--------------------------------------------------
+Name : spotlightknowledged
+PID : 1736
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.audio.SandboxHelper
+PID : 1743
+User Name : sahilpatil
+--------------------------------------------------
+Name : ServiceExtension
+PID : 1761
+User Name : sahilpatil
+--------------------------------------------------
+Name : XProtect
+PID : 1764
+User Name : root
+--------------------------------------------------
+Name : griddatad
+PID : 1765
+User Name : root
+--------------------------------------------------
+Name : XProtect
+PID : 1766
+User Name : sahilpatil
+--------------------------------------------------
+Name : mmaintenanced
+PID : 1771
+User Name : root
+--------------------------------------------------
+Name : ciphermld
+PID : 1773
+User Name : sahilpatil
+--------------------------------------------------
+Name : cfprefsd
+PID : 1789
+User Name : _softwareupdate
+--------------------------------------------------
+Name : cfprefsd
+PID : 1790
+User Name : _audiomxd
+--------------------------------------------------
+Name : dprivacyd
+PID : 1793
+User Name : sahilpatil
+--------------------------------------------------
+Name : cfprefsd
+PID : 1794
+User Name : _nsurlsessiond
+--------------------------------------------------
+Name : cfprefsd
+PID : 1799
+User Name : _applepay
+--------------------------------------------------
+Name : cfprefsd
+PID : 1803
+User Name : _appinstalld
+--------------------------------------------------
+Name : cfprefsd
+PID : 1809
+User Name : _installcoordinationd
+--------------------------------------------------
+Name : cfprefsd
+PID : 1810
+User Name : _securityagent
+--------------------------------------------------
+Name : cfprefsd
+PID : 1811
+User Name : _rmd
+--------------------------------------------------
+Name : metrickitd
+PID : 1812
+User Name : sahilpatil
+--------------------------------------------------
+Name : managedcorespotlightd
+PID : 1813
+User Name : sahilpatil
+--------------------------------------------------
+Name : dprivacyd
+PID : 1819
+User Name : root
+--------------------------------------------------
+Name : ANEStorageMainta
+PID : 1822
+User Name : root
+--------------------------------------------------
+Name : ANEStorageMainta
+PID : 1823
+User Name : _neuralengine
+--------------------------------------------------
+Name : distnoted
+PID : 1825
+User Name : _neuralengine
+--------------------------------------------------
+Name : cfprefsd
+PID : 1826
+User Name : _neuralengine
+--------------------------------------------------
+Name : contactsdonationagent
+PID : 1827
+User Name : sahilpatil
+--------------------------------------------------
+Name : intents_helper
+PID : 1848
+User Name : sahilpatil
+--------------------------------------------------
+Name : PlugInLibraryService
+PID : 1877
+User Name : sahilpatil
+--------------------------------------------------
+Name : lskdd
+PID : 1925
+User Name : _fpsd
+--------------------------------------------------
+Name : SpeechSynthesisServerXPC
+PID : 1945
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 1949
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 1951
+User Name : sahilpatil
+--------------------------------------------------
+Name : contentlinkingd
+PID : 1952
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 1955
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 1956
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 1958
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 1959
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper
+PID : 1960
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper
+PID : 1961
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 1964
+User Name : sahilpatil
+--------------------------------------------------
+Name : VTEncoderXPCService
+PID : 1967
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 1968
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 1969
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper
+PID : 1974
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.SafariPlatformSupport.Helper
+PID : 1985
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 1986
+User Name : sahilpatil
+--------------------------------------------------
+Name : betaenrollmentagent
+PID : 1991
+User Name : sahilpatil
+--------------------------------------------------
+Name : betaenrollmentd
+PID : 1992
+User Name : root
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 1993
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 1995
+User Name : sahilpatil
+--------------------------------------------------
+Name : SAExtensionOrchestrator
+PID : 2000
+User Name : sahilpatil
+--------------------------------------------------
+Name : extensionkitservice
+PID : 2001
+User Name : sahilpatil
+--------------------------------------------------
+Name : BiomeSELFIngestor
+PID : 2002
+User Name : sahilpatil
+--------------------------------------------------
+Name : IFTelemetrySELFIngestor
+PID : 2003
+User Name : sahilpatil
+--------------------------------------------------
+Name : IFTranscriptSELFIngestor
+PID : 2004
+User Name : sahilpatil
+--------------------------------------------------
+Name : GMSSELFIngestor
+PID : 2005
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.audio.SandboxHelper
+PID : 2031
+User Name : sahilpatil
+--------------------------------------------------
+Name : VTDecoderXPCService
+PID : 2036
+User Name : sahilpatil
+--------------------------------------------------
+Name : homeenergyd
+PID : 2040
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 2051
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 2052
+User Name : sahilpatil
+--------------------------------------------------
+Name : ThemeWidgetControlViewService
+PID : 2081
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 2082
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 2083
+User Name : sahilpatil
+--------------------------------------------------
+Name : ThemeWidgetControlViewService
+PID : 2116
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 2117
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 2118
+User Name : sahilpatil
+--------------------------------------------------
+Name : postersyncd
+PID : 2205
+User Name : sahilpatil
+--------------------------------------------------
+Name : PowerChime
+PID : 2286
+User Name : sahilpatil
+--------------------------------------------------
+Name : MessagesBlastDoorService
+PID : 2330
+User Name : sahilpatil
+--------------------------------------------------
+Name : Messages Assistant Extension
+PID : 2331
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.tonelibraryd
+PID : 2332
+User Name : sahilpatil
+--------------------------------------------------
+Name : textcomposerd
+PID : 2333
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.audio.SandboxHelper
+PID : 2335
+User Name : sahilpatil
+--------------------------------------------------
+Name : AppleSpell
+PID : 2342
+User Name : sahilpatil
+--------------------------------------------------
+Name : parsec-fbf
+PID : 3023
+User Name : sahilpatil
+--------------------------------------------------
+Name : coreautha
+PID : 3062
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 3182
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 3492
+User Name : sahilpatil
+--------------------------------------------------
+Name : naturallanguaged
+PID : 3817
+User Name : sahilpatil
+--------------------------------------------------
+Name : colorsync.useragent
+PID : 3975
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.ColorSyncXPCAgent
+PID : 3976
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.SafariPlatformSupport.Helper
+PID : 4674
+User Name : sahilpatil
+--------------------------------------------------
+Name : PlugInLibraryService
+PID : 4797
+User Name : sahilpatil
+--------------------------------------------------
+Name : extensionkitservice
+PID : 4798
+User Name : sahilpatil
+--------------------------------------------------
+Name : ImageThumbnailExtension
+PID : 4799
+User Name : sahilpatil
+--------------------------------------------------
+Name : IMTransferAgent
+PID : 5414
+User Name : sahilpatil
+--------------------------------------------------
+Name : AssetCache
+PID : 5553
+User Name : _assetcache
+--------------------------------------------------
+Name : geoanalyticsd
+PID : 5606
+User Name : sahilpatil
+--------------------------------------------------
+Name : CredentialProviderExtensionHelper
+PID : 6286
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 6361
+User Name : sahilpatil
+--------------------------------------------------
+Name : DockHelper
+PID : 6410
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 6411
+User Name : sahilpatil
+--------------------------------------------------
+Name : MTLCompilerService
+PID : 6412
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 6544
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 6546
+User Name : sahilpatil
+--------------------------------------------------
+Name : mdworker_shared
+PID : 6662
+User Name : sahilpatil
+--------------------------------------------------
+Name : com.apple.iCloudHelper
+PID : 6690
+User Name : sahilpatil
+--------------------------------------------------
+Name : mdworker_shared
+PID : 6696
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 6706
+User Name : sahilpatil
+--------------------------------------------------
+Name : Google Chrome Helper (Renderer)
+PID : 6710
+User Name : sahilpatil
+--------------------------------------------------
+Name : mdworker_shared
+PID : 6722
+User Name : sahilpatil
+--------------------------------------------------
+Name : Python
+PID : 6745
+User Name : sahilpatil
+--------------------------------------------------
+--------------------------------------------------
+--------------- End of log file ---------------
+--------------------------------------------------
