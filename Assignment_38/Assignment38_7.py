@@ -7,7 +7,6 @@ Use different colors for Pass and Fail students.
 
 import pandas as pd
 import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
 
 def Import_csv():
     DataPath = "student_performance_ml.csv"
