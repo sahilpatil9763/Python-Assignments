@@ -103,7 +103,7 @@ def CalculateAccuracy(Y_test, Y_pred):
 
     Accuracy = accuracy_score(Y_test, Y_pred)
 
-    print("Model Accuracy : ", Accuracy * 100)
+    print(f"Model Accuracy : {Accuracy * 100}%")
 
     return Accuracy
 
