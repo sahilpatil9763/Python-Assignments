@@ -8,7 +8,6 @@ Display predictions clearly.
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
 
 # ----------------------------------------------------------
 # Function Name : Import_csv
@@ -142,15 +141,6 @@ def PredictModel(model, X_test):
 
     return Y_pred
 
-# ----------------------------------------------------------
-# Function Name : Accuracy
-# Description   : Calculate Accuracy
-# ----------------------------------------------------------
-def Accuracy(Y_test, Y_pred):
-    AccuracyValue = accuracy_score(Y_test, Y_pred)
-
-    return AccuracyValue
-
 
 # ----------------------------------------------------------
 # Function Name : main
@@ -168,10 +158,6 @@ def main():
     model = CreateModel()
 
     model = TrainModel(model, X_train, Y_train)
-
-    Y_pred = PredictModel(model, X_test)
-
-    FullAccuracy = Accuracy(Y_test, Y_pred)
 
     PredictNewStudents(model)
 
