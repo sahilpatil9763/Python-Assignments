@@ -25,20 +25,36 @@ def Import_csv():
     return df
 
 
+def DecideVariables(df):
+
+    FeatureColumns = [
+        "StudyHours",
+        "Attendance",
+        "PreviousScore",
+        "AssignmentsCompleted",
+        "SleepHours"
+    ]
+
+    X = df[FeatureColumns]
+    Y = df["FinalResult"]
+
+    return X, Y
+
+
 # ----------------------------------------------------------
-# Function Name : DecideVariables
-# Description   : Separate Independent & Dependent Variables
+# Function Name : DecideVariablesWithoutSleepHours
+# Description   : Separate Variables without SleepHours
 # ----------------------------------------------------------
 
-def DecideVariables(df):
+def DecideVariablesWithoutSleepHours(df):
 
     FeatureColumns = [
 
         "StudyHours",
         "Attendance",
         "PreviousScore",
-        "AssignmentsCompleted",
-        "SleepHours"
+        "AssignmentsCompleted"
+
     ]
 
     X = df[FeatureColumns]
@@ -122,13 +138,14 @@ def Accuracy(Y_test, Y_pred):
 # Function Name : RemoveFeature
 # Description   : Remove SleepHours Column
 # ----------------------------------------------------------
+
 def RemoveFeature(df):
 
-    RF = df.drop("SleepHours", axis=1)
+    NewDF = df.drop("SleepHours", axis=1)
 
     print("SleepHours Column Removed Successfully")
 
-    return RF
+    return NewDF
 
 
 # ----------------------------------------------------------
@@ -187,9 +204,7 @@ def main():
 
     NewDF = RemoveFeature(df)
 
-    X = NewDF.drop("FinalResult", axis=1)
-
-    Y = NewDF["FinalResult"]
+    X, Y = DecideVariablesWithoutSleepHours(NewDF)
 
     X_train, X_test, Y_train, Y_test = TrainData(X, Y)
 
