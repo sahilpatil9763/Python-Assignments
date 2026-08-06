@@ -120,17 +120,6 @@ def TrainModel(model, X_train, Y_train):
     return model
 
 
-# ----------------------------------------------------------
-# Function Name : PredictModel
-# Description   : Predict Test Dataset
-# ----------------------------------------------------------
-
-def PredictModel(model, X_test):
-
-    Y_pred = model.predict(X_test)
-
-    return Y_pred
-
 
 # ----------------------------------------------------------
 # Function Name : main
@@ -151,7 +140,6 @@ def main():
 
     FeatureImportance(model, X)
 
-    Y_pred = PredictModel(model, X_test)
 
 # ----------------------------------------------------------
 # Starter
