@@ -235,3 +235,12 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+"""
+1. Compare the accuracy with the full-feature model.
+The accuracy of the model trained using only StudyHours and Attendance is the same as the full-feature model.
+
+2. Is the model still performing well?
+Yes. The model is still performing well because its accuracy remains unchanged even after using only two features. This indicates that these features, especially Attendance, contain sufficient information to predict FinalResult for this dataset.
+"""
