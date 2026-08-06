@@ -142,18 +142,6 @@ def Accuracy(Y_test, Y_pred):
     return AccuracyValue
 
 
-# ----------------------------------------------------------
-# Function Name : RemoveFeature
-# Description   : Remove SleepHours Column
-# ----------------------------------------------------------
-def RemoveFeature(df):
-
-    RF = df.drop("SleepHours", axis=1)
-
-    print("SleepHours Column Removed Successfully")
-
-    return RF
-
 
 # ----------------------------------------------------------
 # Function Name : CompareAccuracy
