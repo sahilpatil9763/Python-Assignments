@@ -10,7 +10,6 @@ y_test != y_pred
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
 
 # ----------------------------------------------------------
 # Function Name : Import_csv
@@ -110,55 +109,6 @@ def PredictModel(model, X_test):
 
     return Y_pred
 
-# ----------------------------------------------------------
-# Function Name : Accuracy
-# Description   : Calculate Accuracy
-# ----------------------------------------------------------
-def Accuracy(Y_test, Y_pred):
-    AccuracyValue = accuracy_score(Y_test, Y_pred)
-
-    return AccuracyValue
-
-
-# ----------------------------------------------------------
-# Function Name : ManualAccuracy
-# Description   : Calculate Accuracy Manually
-# ----------------------------------------------------------
-
-def ManualAccuracy(Y_test, Y_pred):
-
-    Correct = 0
-    Total = len(Y_test)
-
-    for Actual, Predicted in zip(Y_test, Y_pred):
-
-        if Actual == Predicted:
-
-            Correct = Correct + 1
-
-    Accuracy = Correct / Total
-
-    print(f"\nManual Accuracy : {Accuracy * 100:.2f}%")
-
-    return Accuracy
-
-
-# ----------------------------------------------------------
-# Function Name : VerifyAccuracy
-# Description   : Compare Manual and Sklearn Accuracy
-# ----------------------------------------------------------
-
-def VerifyAccuracy(SklearnAccuracy, ManualAccuracy):
-
-    print(f"Sklearn Accuracy : {SklearnAccuracy * 100:.2f}%")
-
-    if SklearnAccuracy == ManualAccuracy:
-
-        print("\nBoth accuracies are the same.")
-
-    else:
-
-        print("\nAccuracies do not match.")
 
 
 # ----------------------------------------------------------
@@ -193,7 +143,7 @@ def MisclassifiedStudents(X_test, Y_test, Y_pred):
 
         print("\nPattern : Misclassified students have similar feature values, making them difficult for the model to classify correctly.")
 
-        
+
 
 # ----------------------------------------------------------
 # Function Name : main
@@ -215,15 +165,7 @@ def main():
     # Predict Test Data
     Y_pred = PredictModel(model, X_test)
 
-    # Accuracy using sklearn
-    SklearnAccuracy = Accuracy(Y_test, Y_pred)
-
-    # Manual Accuracy
-    ManualAcc = ManualAccuracy(Y_test, Y_pred)
-
-    # Compare Both
-    VerifyAccuracy(SklearnAccuracy, ManualAcc)
-
+    # Display Misclassified Students
     MisclassifiedStudents(X_test, Y_test, Y_pred)
 
 # ----------------------------------------------------------
