@@ -1,5 +1,5 @@
 """
-Q2: Use the DataFrame from Q1 and print descriptive statistics using describe().
+Q3: Add a new column 'Total' to the DataFrame as the sum of all subject marks.
 
 data = {
     'Name': ['Amit', 'Sagar', 'Pooja'],
