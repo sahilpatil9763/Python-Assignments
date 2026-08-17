@@ -72,3 +72,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+"""
+Difference in results
+
+Before scaling: The distance is approximately 20000, because the salary feature has very large values compared with the first feature.
+
+After scaling: The distance becomes approximately 0.601, because both features are converted to a common range of 0 to 1.
+
+This shows why feature scaling is important for distance-based algorithms such as KNN and K-Means. Without scaling, the feature with larger numerical values can dominate the distance calculation.
+"""
