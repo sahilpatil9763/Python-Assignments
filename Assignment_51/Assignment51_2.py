@@ -9,11 +9,6 @@ Perform the following steps:
 • Calculate the variance of the dataset.
 """
 
-import re
-
-from matplotlib.dates import SU
-
-
 class Variance:
     def __init__(self):
         self.Data = [4,6,8,10,12]
